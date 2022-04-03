@@ -1,0 +1,10 @@
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\bin\Debug\ProjeKitaplik.exe.config
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\bin\Debug\ProjeKitaplik.exe
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\bin\Debug\ProjeKitaplik.pdb
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\obj\Debug\ProjeKitaplik.csprojAssemblyReference.cache
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\obj\Debug\ProjeKitaplik.Form1.resources
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\obj\Debug\ProjeKitaplik.Properties.Resources.resources
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\obj\Debug\ProjeKitaplik.csproj.GenerateResource.cache
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\obj\Debug\ProjeKitaplik.csproj.CoreCompileInputs.cache
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\obj\Debug\ProjeKitaplik.exe
+C:\Users\Beyza\Desktop\PROJELERİM\c#\Kitaplık\ProjeKitaplik\ProjeKitaplik\obj\Debug\ProjeKitaplik.pdb
